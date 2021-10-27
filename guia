@@ -1,0 +1,5 @@
+Crunch:
+crunch 10 10 -t @@@@raseña > diccionario.txt
+
+grep:
+mostrar linea de match: grep <termino> -n
